@@ -1,47 +1,12 @@
 
-# Sample blog post
+# Organizational Training and Development
 
-_April 1, 2020 by [Gail](https://www.linkedin.com/in/delphininternational/)_
+_January 21, 2022 by [Gail](https://www.linkedin.com/in/delphininternational/)_
 
-This blog post shows a few different types of content that are supported and styled with
-Material styles. Basic typography, images, and code are all supported.
-You can extend these by modifying `Markdown.js`.
+To sustain organizational effectiveness over time requires more than a good product, marketing savvy and a sound infrastructure; it requires people smarts, and in today’s world, global people skills. The people in an organization are the difference that makes a difference in the sustainability of an organization's success.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Are they able to see beyond self-imposed limits? Can they work effectively in a multicultural environment that allows peoples' differences to be a business asset? Can they talk about those things that everyone sees and no one dares express? Can they build stakeholder engagement and partnerships for the work that needs to be done? Can they create a team environment that supports the collective intelligence of the group?
 
-Curabitur blandit tempus porttitor. **Nullam quis risus eget urna mollis** ornare vel eu leo.
-Nullam id dolor id nibh ultricies vehicula ut id elit.
+People skills are particularly crucial to the success of an organization's leaders. A successful engineer, scientist, or sales person is not automatically a good leader or manager. Are the leaders able to get work done effectively through others? Can they create a shared vision and a clear strategy forward? Are they able to inspire, engage and empower the workforce to be their best? Can they lead, coach, mentor, support and encourage others?
 
-Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum.
-Aenean lacinia bibendum nulla sed consectetur.
-
-## Heading
-
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
-Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-### Sub-heading 1
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-### Sub-heading 2
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod.
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo
-sit amet risus.
-
-- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-- Donec id elit non mi porta gravida at eget metus.
-- Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-1. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-1. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+How each employee builds and maintains relationships, manages conflict, inspires trust and commitment, deals with stress and stressful situations and works across national, ethnic, generational and gender cultures in ways that enable each person to be and give their best becomes the key factor in an organization’s success or failure in the long-term. An investment in the development of the emotional, social and collective intelligence of the workforce reaps returns that are hard to quantify, but that are easy to observe day to day by employees, customers, and other stakeholders. Delphin has been partnering with organizations around the world for over 20 years to build the kind of people skills that make a difference.
