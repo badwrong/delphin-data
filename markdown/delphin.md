@@ -1,0 +1,7 @@
+# Delphin, Inc.
+
+Delphin means dolphin in German. When we are asked why we named our company after dolphins, we answer with a story about how dolphins work:
+
+In a research project In Florida, dolphins teach swimming. They first play with the children, teaching them in a safe environment and through play to know the water. Then the dolphins back off and observe the children experimenting with what they have learned. At times the children struggle a bit. The dolphins watch intently and allow them to experiment, discover, and learn. Only when a child is in danger or too frightened to profit from the experience does a dolphin swim up to the child and give him or her a slight nudge in the right direction.
+
+Delphin designs a learning structure that creates a sense of play and discovery, a safe place for risk. We create a learning design that allows our clients to develop in the direction they want to go. We allow them to learn from both their mistakes and successes with the support of the facilitator in training, a coach, or a consultant in teams, at meetings, etc. When necessary, we are there to nudge them in the right direction, to open up new possibilities, to question mental models and to ensure safety throughout the process.

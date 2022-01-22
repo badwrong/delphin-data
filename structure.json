@@ -1,0 +1,24 @@
+{
+  "sections": [
+    {
+      "title": "Services",
+      "url": "https://raw.githubusercontent.com/badwrong/delphin-data/main/markdown/services.md"
+    },
+    {
+      "title": "Secrets of Success",
+      "url": "https://raw.githubusercontent.com/badwrong/delphin-data/main/markdown/secrets.md"
+    },
+    {
+      "title": "Clients",
+      "url": "https://raw.githubusercontent.com/badwrong/delphin-data/main/markdown/clients.md"
+    },
+    {
+      "title": "Delphin, Inc.",
+      "url": "https://raw.githubusercontent.com/badwrong/delphin-data/main/markdown/delphin.md"
+    }
+  ],
+  "posts": [
+    "https://raw.githubusercontent.com/badwrong/delphin-data/main/markdown/post1.md",
+    "https://raw.githubusercontent.com/badwrong/delphin-data/main/markdown/post2.md"
+  ]
+}
